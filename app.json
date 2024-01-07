@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "budgetlockapp",
+    "slug": "budgetlockapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+    
+  }
+}
